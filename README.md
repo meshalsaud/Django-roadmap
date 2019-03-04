@@ -6,3 +6,13 @@ With Django, you can take Web applications from concept to launch in a matter of
 ## First step In Django :
 - here basic tutorial from django offical site 
 https://docs.djangoproject.com/en/2.1/intro/overview/
+### The tutorial covers:
+1- Installition 
+2- Explain MVC, how add views & urls & models and how those contact togather 
+3- How to add our models to the admin 
+4- Use the template system 
+5- Testing 
+6- Styling 
+
+* During this tutorial you can django documention about specific topic (view,model ..etc )
+

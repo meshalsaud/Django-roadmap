@@ -17,10 +17,10 @@ https://docs.djangoproject.com/en/2.1/intro/overview/
 * During this tutorial you can django documention about specific topic (view,model ..etc ) *
 
 ## Bulid Blog with django 
-. After finish basic tutorial It's time to bulid your first project In django.  ( Easy english ) 
+* After finish basic tutorial It's time to bulid your first project In django.  ( Easy english ) 
 https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc
 
-## Tutorial above covers:
+### Tutorial above covers:
 1. all topic In the tutrial 1 
 2. Static & Media
 3. Uploading files

@@ -31,7 +31,32 @@ https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x
 
 * After seconed tutorial you will be confident and you can build your own app .
 
-**
+* In two tutorial above you can bulid you web app but you still have two important topics
+1. Django messages
+2. Django rest frame work 
+
+### Django messages:
+1. Here official site [djnago message](https://docs.djangoproject.com/en/2.1/ref/contrib/messages/)
+2. Here [video](https://www.youtube.com/watch?v=Loupuo3FWgw&t=170s) about It
+
+### Django-rest-framework:
+Django has rest api framwork called [django-rest-framework](https://www.django-rest-framework.org/) It's do must of work behalf of you.
+
+* We you need to learn Django rest framework ?
+If you wnat work with react & react native ..etc , you need to now about It 
+
+Here basic tutorial about django-rest-framework
+https://medium.com/crowdbotics/how-to-write-an-api-in-3-lines-of-code-with-django-rest-framework-59b0971edfa4
+
+Here how to use django-rest-framework with react
+https://www.valentinog.com/blog/tutorial-api-django-rest-react/
+
+
+Thanks and be close for future updates
+Meshal Alanizy
+
+
+
 
 
 

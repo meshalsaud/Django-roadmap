@@ -53,7 +53,9 @@ https://www.valentinog.com/blog/tutorial-api-django-rest-react/
 
 
 Thanks and be close for future updates.
+___
 Meshal Alanizy
+___
 
 
 

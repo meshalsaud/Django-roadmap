@@ -8,7 +8,7 @@ With Django, you can take Web applications from concept to launch in a matter of
 https://docs.djangoproject.com/en/2.1/intro/overview/
 ### The tutorial covers:
 1. Installition 
-2. Explain MVC, how add views & urls & models and how those contact togather (here helpfuly article about (MVC)[Understanding the MVC pattern in Django]
+2. Explain MVC, how add views & urls & models and how those contact togather (here helpfuly article about [Understanding the MVC pattern in Django](https://medium.com/shecodeafrica/understanding-the-mvc-pattern-in-django-edda05b9f43f)
 3. How to add our models to the admin 
 4- Use the template system 
 5. Testing 

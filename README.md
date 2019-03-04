@@ -14,5 +14,5 @@ https://docs.djangoproject.com/en/2.1/intro/overview/
 5. Testing 
 6. Styling 
 
-* During this tutorial you can django documention about specific topic (view,model ..etc )
+* During this tutorial you can django documention about specific topic (view,model ..etc ) *
 

@@ -52,7 +52,7 @@ Here how to use django-rest-framework with react
 https://www.valentinog.com/blog/tutorial-api-django-rest-react/
 
 
-Thanks and be close for future updates
+Thanks and be close for future updates.
 Meshal Alanizy
 
 

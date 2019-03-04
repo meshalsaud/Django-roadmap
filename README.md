@@ -16,3 +16,5 @@ https://docs.djangoproject.com/en/2.1/intro/overview/
 
 * During this tutorial you can django documention about specific topic (view,model ..etc ) *
 
+## Bulid Blog with django 
+. ok
